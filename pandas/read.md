@@ -1,2 +1,2 @@
 # Introduction to Pandas
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://www.dataschool.io/content/images/2016/05/python_pandas.jpg)
